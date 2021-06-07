@@ -4,10 +4,10 @@
 
 Prerequisits:
 
-NodeJS: https://nodejs.org/en/
-MetaMask: https://metamask.io/
-Truffle: https://www.trufflesuite.com/truffle
-Ganache: https://www.trufflesuite.com/ganache
+ * NodeJS: https://nodejs.org/en/
+ * MetaMask: https://metamask.io/
+ * Truffle: https://www.trufflesuite.com/truffle
+ * Ganache: https://www.trufflesuite.com/ganache
 
 How to run:
 
