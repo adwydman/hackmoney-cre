@@ -31,6 +31,8 @@ $ truffle migrate --reset
 $ npm start
 ```
 
+Ask me on Discord if you have any questions (@nairdus in Eth.Cre channel)
+
 ## Structure
 
  * `migrations` - blockchain migrations
