@@ -2,14 +2,14 @@
 
 ## How to run
 
-Prerequisits:
+### Prerequisites:
 
  * NodeJS: https://nodejs.org/en/
  * MetaMask: https://metamask.io/
  * Truffle: https://www.trufflesuite.com/truffle
  * Ganache: https://www.trufflesuite.com/ganache
 
-How to run:
+### How to run:
 
 Make sure you have Ganache up and running.
 
